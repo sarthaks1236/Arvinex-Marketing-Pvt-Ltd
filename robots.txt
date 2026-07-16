@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarthaks1236.github.io/Arvinex-Marketing-Pvt-Ltd/sitemap.xml
